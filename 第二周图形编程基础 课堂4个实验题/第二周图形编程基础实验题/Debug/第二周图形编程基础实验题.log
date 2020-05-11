@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (第二周图形编程基础实验题.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  第二周图形编程基础实验题View.cpp
+  第二周图形编程基础实验题Doc.cpp
+  第二周图形编程基础实验题.cpp
+  MainFrm.cpp
+  正在生成代码...
+  第二周图形编程基础实验题.vcxproj -> D:\VS C++\第二周图形编程基础 课堂4个实验题\Debug\2-图形编程基础课堂实验题1随机数半径鼠标点为圆心画圆.exe
+  第二周图形编程基础实验题.vcxproj -> D:\VS C++\第二周图形编程基础 课堂4个实验题\Debug\2-图形编程基础课堂实验题1随机数半径鼠标点为圆心画圆.pdb (Partial PDB)

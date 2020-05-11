@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (第三周MFC通用类 课堂第2个例子 重绘能显示.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  第三周MFC通用类 课堂第2个例子 重绘能显示View.cpp
+  第三周MFC通用类 课堂第2个例子 重绘能显示.vcxproj -> D:\VS C++\第三周MFC通用类 课堂3个例子\Debug\第三周MFC通用类 课堂第2个例子 随机矩形大小重绘能显示.exe
+  第三周MFC通用类 课堂第2个例子 重绘能显示.vcxproj -> D:\VS C++\第三周MFC通用类 课堂3个例子\Debug\第三周MFC通用类 课堂第2个例子 随机矩形大小重绘能显示.pdb (Partial PDB)

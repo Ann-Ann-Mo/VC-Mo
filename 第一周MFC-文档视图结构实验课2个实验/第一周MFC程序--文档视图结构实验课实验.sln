@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第一周M实验课实验一 左键点击输出名字", "第一周MFC程序--文档视图结构实验\第一周MFC程序--文档视图结构实验.vcxproj", "{91E51C34-2AFD-431D-95C8-F54759037ED0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第一周实验课实验二 右键输出左键点击次数", "第一周实验课实验二 右键输出左键点击次数\第一周实验课实验二 右键输出左键点击次数.vcxproj", "{A00480FD-031C-40FD-AF47-7D098DFC6C26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E51C34-2AFD-431D-95C8-F54759037ED0}.Debug|x64.ActiveCfg = Debug|x64
+		{91E51C34-2AFD-431D-95C8-F54759037ED0}.Debug|x64.Build.0 = Debug|x64
+		{91E51C34-2AFD-431D-95C8-F54759037ED0}.Debug|x86.ActiveCfg = Debug|Win32
+		{91E51C34-2AFD-431D-95C8-F54759037ED0}.Debug|x86.Build.0 = Debug|Win32
+		{91E51C34-2AFD-431D-95C8-F54759037ED0}.Release|x64.ActiveCfg = Release|x64
+		{91E51C34-2AFD-431D-95C8-F54759037ED0}.Release|x64.Build.0 = Release|x64
+		{91E51C34-2AFD-431D-95C8-F54759037ED0}.Release|x86.ActiveCfg = Release|Win32
+		{91E51C34-2AFD-431D-95C8-F54759037ED0}.Release|x86.Build.0 = Release|Win32
+		{A00480FD-031C-40FD-AF47-7D098DFC6C26}.Debug|x64.ActiveCfg = Debug|x64
+		{A00480FD-031C-40FD-AF47-7D098DFC6C26}.Debug|x64.Build.0 = Debug|x64
+		{A00480FD-031C-40FD-AF47-7D098DFC6C26}.Debug|x86.ActiveCfg = Debug|Win32
+		{A00480FD-031C-40FD-AF47-7D098DFC6C26}.Debug|x86.Build.0 = Debug|Win32
+		{A00480FD-031C-40FD-AF47-7D098DFC6C26}.Release|x64.ActiveCfg = Release|x64
+		{A00480FD-031C-40FD-AF47-7D098DFC6C26}.Release|x64.Build.0 = Release|x64
+		{A00480FD-031C-40FD-AF47-7D098DFC6C26}.Release|x86.ActiveCfg = Release|Win32
+		{A00480FD-031C-40FD-AF47-7D098DFC6C26}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

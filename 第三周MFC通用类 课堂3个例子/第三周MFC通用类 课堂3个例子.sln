@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第三周MFC通用类 课堂第1个例子 客户区显示最大圆", "第三周MFC通用类 课堂3个例子\第三周MFC通用类 课堂3个例子.vcxproj", "{48D04B31-3A99-40CD-868B-F18BDD26EE2B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第三周MFC通用类 课堂第2个例子 随机矩形大小重绘能显示", "第三周MFC通用类 课堂第2个例子 重绘能显示\第三周MFC通用类 课堂第2个例子 重绘能显示.vcxproj", "{3FAA60F4-7C1D-47F8-BD53-D7C2BBD6F334}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第三周MFC通用类 课堂第3个例子 把数据放在文档类", "第三周MFC通用类 课堂第3个例子 把数据放在文档类\第三周MFC通用类 课堂第3个例子 把数据放在文档类.vcxproj", "{790A40E0-6E2C-4CEF-A707-584711BA74BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48D04B31-3A99-40CD-868B-F18BDD26EE2B}.Debug|x64.ActiveCfg = Debug|x64
+		{48D04B31-3A99-40CD-868B-F18BDD26EE2B}.Debug|x64.Build.0 = Debug|x64
+		{48D04B31-3A99-40CD-868B-F18BDD26EE2B}.Debug|x86.ActiveCfg = Debug|Win32
+		{48D04B31-3A99-40CD-868B-F18BDD26EE2B}.Debug|x86.Build.0 = Debug|Win32
+		{48D04B31-3A99-40CD-868B-F18BDD26EE2B}.Release|x64.ActiveCfg = Release|x64
+		{48D04B31-3A99-40CD-868B-F18BDD26EE2B}.Release|x64.Build.0 = Release|x64
+		{48D04B31-3A99-40CD-868B-F18BDD26EE2B}.Release|x86.ActiveCfg = Release|Win32
+		{48D04B31-3A99-40CD-868B-F18BDD26EE2B}.Release|x86.Build.0 = Release|Win32
+		{3FAA60F4-7C1D-47F8-BD53-D7C2BBD6F334}.Debug|x64.ActiveCfg = Debug|x64
+		{3FAA60F4-7C1D-47F8-BD53-D7C2BBD6F334}.Debug|x64.Build.0 = Debug|x64
+		{3FAA60F4-7C1D-47F8-BD53-D7C2BBD6F334}.Debug|x86.ActiveCfg = Debug|Win32
+		{3FAA60F4-7C1D-47F8-BD53-D7C2BBD6F334}.Debug|x86.Build.0 = Debug|Win32
+		{3FAA60F4-7C1D-47F8-BD53-D7C2BBD6F334}.Release|x64.ActiveCfg = Release|x64
+		{3FAA60F4-7C1D-47F8-BD53-D7C2BBD6F334}.Release|x64.Build.0 = Release|x64
+		{3FAA60F4-7C1D-47F8-BD53-D7C2BBD6F334}.Release|x86.ActiveCfg = Release|Win32
+		{3FAA60F4-7C1D-47F8-BD53-D7C2BBD6F334}.Release|x86.Build.0 = Release|Win32
+		{790A40E0-6E2C-4CEF-A707-584711BA74BB}.Debug|x64.ActiveCfg = Debug|x64
+		{790A40E0-6E2C-4CEF-A707-584711BA74BB}.Debug|x64.Build.0 = Debug|x64
+		{790A40E0-6E2C-4CEF-A707-584711BA74BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{790A40E0-6E2C-4CEF-A707-584711BA74BB}.Debug|x86.Build.0 = Debug|Win32
+		{790A40E0-6E2C-4CEF-A707-584711BA74BB}.Release|x64.ActiveCfg = Release|x64
+		{790A40E0-6E2C-4CEF-A707-584711BA74BB}.Release|x64.Build.0 = Release|x64
+		{790A40E0-6E2C-4CEF-A707-584711BA74BB}.Release|x86.ActiveCfg = Release|Win32
+		{790A40E0-6E2C-4CEF-A707-584711BA74BB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
