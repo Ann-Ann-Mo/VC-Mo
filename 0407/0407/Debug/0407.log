@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  MyDlgo.cpp
+d:\vs c++\0407\0407\mydlgo.cpp(1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  MyDlg0.cpp
+  MainFrm.cpp
+  0407View.cpp
+d:\vs c++\0407\0407\0407view.cpp(26): error C2065: “ID_32771”: 未声明的标识符
+d:\vs c++\0407\0407\0407view.cpp(108): error C2065: “IDD_DIALOG1”: 未声明的标识符
+  0407Doc.cpp
+  0407.cpp
+  正在生成代码...

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第四周实验课例子 小球下落", "0317\0317.vcxproj", "{26771A56-34EF-42AB-810A-87DF48FEBF50}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第四周实验课 实验题1 求移动像素次数", "第四周实验课 实验题1 求移动像素次数\第四周实验课 实验题1 求移动像素次数.vcxproj", "{EA8FCEDA-73E1-44D7-A896-10A90D8BC3F8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第四周实验课 实验2方向键控制矩形移动", "第四周实验课 实验2方向键控制矩形移动\第四周实验课 实验2方向键控制矩形移动.vcxproj", "{22BB093C-B827-4C1F-A592-F36709E968D6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第四周实验课 实验3小球落下后反弹", "第四周实验课 实验3小球落下后反弹\第四周实验课 实验3小球落下后反弹.vcxproj", "{6BFED97A-1B8F-4714-BCEB-27AC7A50FE85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26771A56-34EF-42AB-810A-87DF48FEBF50}.Debug|x64.ActiveCfg = Debug|x64
+		{26771A56-34EF-42AB-810A-87DF48FEBF50}.Debug|x64.Build.0 = Debug|x64
+		{26771A56-34EF-42AB-810A-87DF48FEBF50}.Debug|x86.ActiveCfg = Debug|Win32
+		{26771A56-34EF-42AB-810A-87DF48FEBF50}.Debug|x86.Build.0 = Debug|Win32
+		{26771A56-34EF-42AB-810A-87DF48FEBF50}.Release|x64.ActiveCfg = Release|x64
+		{26771A56-34EF-42AB-810A-87DF48FEBF50}.Release|x64.Build.0 = Release|x64
+		{26771A56-34EF-42AB-810A-87DF48FEBF50}.Release|x86.ActiveCfg = Release|Win32
+		{26771A56-34EF-42AB-810A-87DF48FEBF50}.Release|x86.Build.0 = Release|Win32
+		{EA8FCEDA-73E1-44D7-A896-10A90D8BC3F8}.Debug|x64.ActiveCfg = Debug|x64
+		{EA8FCEDA-73E1-44D7-A896-10A90D8BC3F8}.Debug|x64.Build.0 = Debug|x64
+		{EA8FCEDA-73E1-44D7-A896-10A90D8BC3F8}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA8FCEDA-73E1-44D7-A896-10A90D8BC3F8}.Debug|x86.Build.0 = Debug|Win32
+		{EA8FCEDA-73E1-44D7-A896-10A90D8BC3F8}.Release|x64.ActiveCfg = Release|x64
+		{EA8FCEDA-73E1-44D7-A896-10A90D8BC3F8}.Release|x64.Build.0 = Release|x64
+		{EA8FCEDA-73E1-44D7-A896-10A90D8BC3F8}.Release|x86.ActiveCfg = Release|Win32
+		{EA8FCEDA-73E1-44D7-A896-10A90D8BC3F8}.Release|x86.Build.0 = Release|Win32
+		{22BB093C-B827-4C1F-A592-F36709E968D6}.Debug|x64.ActiveCfg = Debug|x64
+		{22BB093C-B827-4C1F-A592-F36709E968D6}.Debug|x64.Build.0 = Debug|x64
+		{22BB093C-B827-4C1F-A592-F36709E968D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{22BB093C-B827-4C1F-A592-F36709E968D6}.Debug|x86.Build.0 = Debug|Win32
+		{22BB093C-B827-4C1F-A592-F36709E968D6}.Release|x64.ActiveCfg = Release|x64
+		{22BB093C-B827-4C1F-A592-F36709E968D6}.Release|x64.Build.0 = Release|x64
+		{22BB093C-B827-4C1F-A592-F36709E968D6}.Release|x86.ActiveCfg = Release|Win32
+		{22BB093C-B827-4C1F-A592-F36709E968D6}.Release|x86.Build.0 = Release|Win32
+		{6BFED97A-1B8F-4714-BCEB-27AC7A50FE85}.Debug|x64.ActiveCfg = Debug|x64
+		{6BFED97A-1B8F-4714-BCEB-27AC7A50FE85}.Debug|x64.Build.0 = Debug|x64
+		{6BFED97A-1B8F-4714-BCEB-27AC7A50FE85}.Debug|x86.ActiveCfg = Debug|Win32
+		{6BFED97A-1B8F-4714-BCEB-27AC7A50FE85}.Debug|x86.Build.0 = Debug|Win32
+		{6BFED97A-1B8F-4714-BCEB-27AC7A50FE85}.Release|x64.ActiveCfg = Release|x64
+		{6BFED97A-1B8F-4714-BCEB-27AC7A50FE85}.Release|x64.Build.0 = Release|x64
+		{6BFED97A-1B8F-4714-BCEB-27AC7A50FE85}.Release|x86.ActiveCfg = Release|Win32
+		{6BFED97A-1B8F-4714-BCEB-27AC7A50FE85}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

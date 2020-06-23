@@ -1,0 +1,4 @@
+﻿  0414第八周 基于对话框 实验二View.cpp
+d:\vs c++\0414  实验1\0414第八周 基于对话框 实验二\0414第八周 基于对话框 实验二view.cpp(94): error C2039: “E”: 不是“CFileDialog”的成员
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afxdlgs.h(125): note: 参见“CFileDialog”的声明
+d:\vs c++\0414  实验1\0414第八周 基于对话框 实验二\0414第八周 基于对话框 实验二view.cpp(94): error C2143: 语法错误: 缺少“;”(在“}”的前面)

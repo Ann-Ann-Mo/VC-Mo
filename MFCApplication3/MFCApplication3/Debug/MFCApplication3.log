@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  ViewTree.cpp
+  PropertiesWnd.cpp
+  OutputWnd.cpp
+  MFCApplication3View.cpp
+  MFCApplication3Doc.cpp
+  MFCApplication3.cpp
+  MainFrm.cpp
+  FileView.cpp
+  ClassView.cpp
+  正在生成代码...
+  MFCApplication3.vcxproj -> D:\VS C++\MFCApplication3\Debug\MFCApplication3.exe
+  MFCApplication3.vcxproj -> D:\VS C++\MFCApplication3\Debug\MFCApplication3.pdb (Partial PDB)

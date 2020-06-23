@@ -1,0 +1,16 @@
+﻿  图像学实验一View.cpp
+d:\vs c++\图像学实验一\图像学实验一\图像学实验一view.cpp(83): error C2653: “CMyView”: 不是类或命名空间名称
+d:\vs c++\图像学实验一\图像学实验一\图像学实验一view.cpp(85): error C2660: “GetDC”: 函数不接受 0 个参数
+d:\vs c++\图像学实验一\图像学实验一\图像学实验一view.cpp(91): error C2668: “abs”: 对重载函数的调用不明确
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(359): note: 可能是“__int64 abs(const __int64) throw()”
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(354): note: 或  “long abs(const long) throw()”
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(284): note: 或  “int abs(int)”
+  d:\vs c++\图像学实验一\图像学实验一\图像学实验一view.cpp(91): note: 尝试匹配参数列表“(float)”时
+d:\vs c++\图像学实验一\图像学实验一\图像学实验一view.cpp(96): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vs c++\图像学实验一\图像学实验一\图像学实验一view.cpp(99): error C2668: “abs”: 对重载函数的调用不明确
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(359): note: 可能是“__int64 abs(const __int64) throw()”
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(354): note: 或  “long abs(const long) throw()”
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(284): note: 或  “int abs(int)”
+  d:\vs c++\图像学实验一\图像学实验一\图像学实验一view.cpp(99): note: 尝试匹配参数列表“(float)”时
+d:\vs c++\图像学实验一\图像学实验一\图像学实验一view.cpp(104): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\vs c++\图像学实验一\图像学实验一\图像学实验一view.cpp(107): error C2660: “ReleaseDC”: 函数不接受 1 个参数

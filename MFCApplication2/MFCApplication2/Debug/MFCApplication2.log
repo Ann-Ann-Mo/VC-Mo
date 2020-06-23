@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  ViewTree.cpp
+  PropertiesWnd.cpp
+  OutputWnd.cpp
+  MFCApplication2View.cpp
+  MFCApplication2Doc.cpp
+  MFCApplication2.cpp
+  MainFrm.cpp
+  FileView.cpp
+  ClassView.cpp
+  ChildFrm.cpp
+  正在生成代码...
+  MFCApplication2.vcxproj -> D:\VS C++\MFCApplication2\Debug\MFCApplication2.exe
+  MFCApplication2.vcxproj -> D:\VS C++\MFCApplication2\Debug\MFCApplication2.pdb (Partial PDB)

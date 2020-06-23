@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  App.xaml.cpp
+  MainPage.xaml.cpp
+  XamlTypeInfo.Impl.g.cpp
+  XamlTypeInfo.g.cpp
+    正在创建库 D:\VS C++\App1\Debug\App1\App1.lib 和对象 D:\VS C++\App1\Debug\App1\App1.exp
+  App1.vcxproj -> D:\VS C++\App1\Debug\App1\App1.exe
+  App1.vcxproj -> D:\VS C++\App1\Debug\App1\App1.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (0317.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  0317View.cpp
+  0317.vcxproj -> D:\VS C++\第四周鼠标与键盘 实验课 3个题1个例子\Debug\第四周实验课例子 小球下落.exe
+  0317.vcxproj -> D:\VS C++\第四周鼠标与键盘 实验课 3个题1个例子\Debug\第四周实验课例子 小球下落.pdb (Partial PDB)

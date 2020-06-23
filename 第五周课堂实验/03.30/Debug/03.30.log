@@ -1,7 +1,2 @@
-﻿  03.30View.cpp
-d:\vs c++\03.30\03.30\03.30view.cpp(100): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-d:\vs c++\03.30\03.30\03.30view.cpp(101): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-d:\vs c++\03.30\03.30\03.30view.cpp(105): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-d:\vs c++\03.30\03.30\03.30view.cpp(111): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-  03.30.vcxproj -> D:\VS C++\03.30\Debug\03.30.exe
-  03.30.vcxproj -> D:\VS C++\03.30\Debug\03.30.pdb (Partial PDB)
+﻿  03.30.vcxproj -> D:\VS C++\第五周课堂实验\Debug\03.30.exe
+  03.30.vcxproj -> D:\VS C++\第五周课堂实验\Debug\03.30.pdb (Partial PDB)
